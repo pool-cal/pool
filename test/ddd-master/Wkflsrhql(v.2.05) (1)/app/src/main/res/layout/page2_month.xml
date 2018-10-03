@@ -70,6 +70,7 @@
                 android:text="5" />
 
             <TextView
+                android:id="@+id/page2_day_6"
                 android:layout_width="52dp"
                 android:layout_height="52dp"
                 android:layout_margin="1dp"
@@ -78,6 +79,7 @@
                 android:text="6" />
 
             <TextView
+                android:id="@+id/page2_day_7"
                 android:layout_width="52dp"
                 android:layout_height="52dp"
                 android:layout_margin="1dp"
