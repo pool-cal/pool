@@ -41,4 +41,8 @@ public class Value {
 
     //모든 리스트 가져오기
     public static String Get_list_day="http://cslab2.kku.ac.kr/~201341363/Get_list_day.php";
+
+    // 이번달 각 목표량 가져오기
+    public static String Get_list_goal="http://cslab2.kku.ac.kr/~201341363/Get_list_goal.php";
+
 }
