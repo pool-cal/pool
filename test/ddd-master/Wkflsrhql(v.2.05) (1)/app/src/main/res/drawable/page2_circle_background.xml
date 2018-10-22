@@ -13,7 +13,7 @@
                 android:angle="90" />
             <stroke
                 android:width="7dp"
-                android:color="#000000" />
+                android:color="#FFF612" />
         </shape>
     </item>
     <item
@@ -24,13 +24,13 @@
                     android:radius="400dip"
                     />
                 <gradient
-                    android:startColor="#db1616"
-                    android:centerColor="#ff0000"
-                    android:endColor="#ff0000"
+                    android:startColor="#ff0000"
+                    android:centerColor="#1DDB16"
+                    android:endColor="#368AFF"
                     android:angle="180" />
                 <stroke
                     android:width="7dp"
-                    android:color="#000000" />
+                    android:color="#FFF612" />
             </shape>
         </clip>
     </item>

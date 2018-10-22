@@ -4,16 +4,22 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:background="#FFFFFF">
+    android:background="@drawable/background">
 
     <TextView
         android:id="@+id/page2_title"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="자린고비 등급"
-        android:textSize="13pt"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text=""
         android:textColor="#000000"
-        android:gravity="center"/>
+        android:textSize="15pt"
+        android:background="@drawable/jaringobi"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:orientation="vertical"></LinearLayout>
 
     <TableLayout
         android:id="@+id/rank_days"
@@ -22,12 +28,13 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:gravity="center">
 
             <TextView
                 android:id="@+id/page2_day_1"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -35,8 +42,8 @@
 
             <TextView
                 android:id="@+id/page2_day_2"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -44,8 +51,8 @@
 
             <TextView
                 android:id="@+id/page2_day_3"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -53,8 +60,8 @@
 
             <TextView
                 android:id="@+id/page2_day_4"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -62,8 +69,8 @@
 
             <TextView
                 android:id="@+id/page2_day_5"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -71,8 +78,8 @@
 
             <TextView
                 android:id="@+id/page2_day_6"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -80,8 +87,8 @@
 
             <TextView
                 android:id="@+id/page2_day_7"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -91,12 +98,13 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:gravity="center">
 
             <TextView
                 android:id="@+id/page2_day_8"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -104,8 +112,8 @@
 
             <TextView
                 android:id="@+id/page2_day_9"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -113,8 +121,8 @@
 
             <TextView
                 android:id="@+id/page2_day_10"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -122,8 +130,8 @@
 
             <TextView
                 android:id="@+id/page2_day_11"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -131,8 +139,8 @@
 
             <TextView
                 android:id="@+id/page2_day_12"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -140,8 +148,8 @@
 
             <TextView
                 android:id="@+id/page2_day_13"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -149,8 +157,8 @@
 
             <TextView
                 android:id="@+id/page2_day_14"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -159,12 +167,13 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:gravity="center">
 
             <TextView
                 android:id="@+id/page2_day_15"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -172,8 +181,8 @@
 
             <TextView
                 android:id="@+id/page2_day_16"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -181,8 +190,8 @@
 
             <TextView
                 android:id="@+id/page2_day_17"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -190,8 +199,8 @@
 
             <TextView
                 android:id="@+id/page2_day_18"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -199,8 +208,8 @@
 
             <TextView
                 android:id="@+id/page2_day_19"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -208,8 +217,8 @@
 
             <TextView
                 android:id="@+id/page2_day_20"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -217,8 +226,8 @@
 
             <TextView
                 android:id="@+id/page2_day_21"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -227,12 +236,13 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:gravity="center">
 
             <TextView
                 android:id="@+id/page2_day_22"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -240,8 +250,8 @@
 
             <TextView
                 android:id="@+id/page2_day_23"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -249,8 +259,8 @@
 
             <TextView
                 android:id="@+id/page2_day_24"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -258,8 +268,8 @@
 
             <TextView
                 android:id="@+id/page2_day_25"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -267,8 +277,8 @@
 
             <TextView
                 android:id="@+id/page2_day_26"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -276,8 +286,8 @@
 
             <TextView
                 android:id="@+id/page2_day_27"
-                android:layout_width="20dp"
-                android:layout_height="50dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -285,8 +295,8 @@
 
             <TextView
                 android:id="@+id/page2_day_28"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -296,12 +306,13 @@
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:gravity="center">
 
             <TextView
                 android:id="@+id/page2_day_29"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -309,8 +320,8 @@
 
             <TextView
                 android:id="@+id/page2_day_30"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
@@ -318,30 +329,33 @@
 
             <TextView
                 android:id="@+id/page2_day_31"
-                android:layout_width="52dp"
-                android:layout_height="52dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
                 android:layout_margin="1dp"
                 android:background="#ffffff"
                 android:gravity="center"
                 android:text="31" />
+
         </TableRow>
     </TableLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="65dp"
+        android:layout_height="20dp"
         android:orientation="vertical"></LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="118dp"
+        android:background="@drawable/your_rank"
         android:orientation="vertical">
 
         <TextView
             android:id="@+id/your_age"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="29dp"
             android:layout_marginLeft="20dp"
-            android:text="당신의 등급은" />
+            android:text="" />
 
         <TextView
             android:id="@+id/age"
@@ -349,6 +363,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="1등급"
+            android:textColor="#FF5E00"
             android:textSize="20pt" />
 
         <TextView
@@ -356,7 +371,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="300dp"
-            android:text="입니다." />
+            android:text="" />
     </LinearLayout>
 
 </LinearLayout>

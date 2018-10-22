@@ -52,7 +52,7 @@
                 android:layout_height="match_parent"
                 android:background="#3e8bfe"
                 android:layout_weight="1"
-                android:text="오늘의 양"
+                android:text="신용 등급"
                 android:textColor="#ffffff"
                 style="@style/Widget.AppCompat.ActionButton"/>
 

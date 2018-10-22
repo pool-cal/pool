@@ -254,6 +254,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         return true;
     }
 
+
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
@@ -263,7 +264,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
             case R.id.btn_b:
                 viewPager.setCurrentItem(1);
-                Toast.makeText(this, "오늘의 양", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "신용 등급", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.btn_c:
                 viewPager.setCurrentItem(2);
