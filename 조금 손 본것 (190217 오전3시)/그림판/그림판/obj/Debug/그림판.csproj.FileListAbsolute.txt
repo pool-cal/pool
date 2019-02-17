@@ -1,0 +1,30 @@
+D:\JDG\c# 연습\그림판\그림판\bin\Debug\그림판.exe.config
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.csprojResolveAssemblyReference.cache
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.Form1.resources
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.Properties.Resources.resources
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.csproj.GenerateResource.Cache
+D:\JDG\c# 연습\그림판\그림판\bin\Debug\그림판.exe
+D:\JDG\c# 연습\그림판\그림판\bin\Debug\그림판.pdb
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.exe
+D:\JDG\c# 연습\그림판\그림판\obj\Debug\그림판.pdb
+C:\Users\JDG\OneDrive\문서\그림판\그림판\bin\Debug\그림판.exe.config
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.exe
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.pdb
+C:\Users\JDG\OneDrive\문서\그림판\그림판\bin\Debug\그림판.exe
+C:\Users\JDG\OneDrive\문서\그림판\그림판\bin\Debug\그림판.pdb
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.Form1.resources
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.Properties.Resources.resources
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.csproj.GenerateResource.Cache
+C:\Users\JDG\OneDrive\문서\그림판\그림판\obj\Debug\그림판.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.Form1.resources
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.Properties.Resources.resources
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\문서\그림판\그림판\bin\Debug\그림판.exe.config
+C:\Users\user\OneDrive\문서\그림판\그림판\bin\Debug\그림판.exe
+C:\Users\user\OneDrive\문서\그림판\그림판\bin\Debug\그림판.pdb
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.exe
+C:\Users\user\OneDrive\문서\그림판\그림판\obj\Debug\그림판.pdb
+C:\Users\JDG\Documents\GitHub\pool\test\ddd-master\조금 손 본것 (190217 오전3시)\그림판\그림판\bin\Debug\그림판.exe.config
+C:\Users\JDG\Documents\GitHub\pool\test\ddd-master\조금 손 본것 (190217 오전3시)\그림판\그림판\obj\Debug\그림판.exe
+C:\Users\JDG\Documents\GitHub\pool\test\ddd-master\조금 손 본것 (190217 오전3시)\그림판\그림판\obj\Debug\그림판.pdb
