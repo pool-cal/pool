@@ -61,7 +61,8 @@ public class Page2_monthActivity extends Fragment {
                 myDatasets = new ArrayList<String>();
                 for(int i=1; i<result_split.length; i++){
                     result_list = result_split[i].split("<1>");
-                    myDatasets.add(result_list[1]);
+                    myDatasets.add(
+                            [1]);
                 }
             }
             else if (result.charAt(0) == '2') {
